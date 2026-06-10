@@ -1,71 +1,91 @@
-Hey there! 👋 I'm Pragatheswaran
+👋 Hey, I'm Pragatheswaran
 
-«"I started coding to build cool things...
-Now I spend most of my time convincing bugs to leave." 😭☕»
-
-🎓 Computer Science Engineering Student
-
-💻 Turning coffee into code and code into occasional masterpieces 😎
-
-🚀 Currently Building:
-
-- AI & Deep Learning Projects
-- Web Applications
-- Smart Solutions for Real-World Problems
-
-🛠️ Tech Stack
-
-Java • Python • JavaScript • C++ • MySQL • Git
-
-🎯 Current Mission
-
-- Secure great internship opportunities 💼
-- Build impactful projects 🚀
-- Learn something new every day 📚
-- Survive debugging sessions ☠️
-
-🏆 Featured Projects
-
-🚑 Medi-Verse
-
-- Emergency assistance app with real-time location sharing
-
-🚦 Traffic Sign Recognition
-
-- Deep Learning-powered traffic sign classification system
-
-👨‍🦯 Student Monitor & Accessibility Assistant
-
-- SIH project focused on student monitoring and accessibility support
-
-📈 GitHub Journey
-
-"Every commit tells a story.
-Every error teaches a lesson." 😌
-
-🎵 While Coding
-
-🎧 Music On
-
-☕ Coffee Ready
-
-🐛 Bugs Loading...
-
-📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/pragatheswaran-c-83081633b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-Email: kit28.24bcs120@gmail.com
+💻 Computer Science Engineering Student | 🚀 Developer | 🤖 AI Enthusiast
 
 ---
 
+👨‍💻 About Me
 
+const pragatheswaran = {
+    education: "B.E Computer Science Engineering",
+    languages: ["Java", "Python", "JavaScript", "C++"],
+    interests: ["Artificial Intelligence", "Web Development", "Software Engineering"],
+    currentlyLearning: ["Full Stack Development", "Machine Learning"],
+    currentGoal: "Secure internships and build impactful projects",
+    funFact: "I started coding for projects. Now I spend half my time debugging 😅",
+    motto: "Build. Learn. Improve. Repeat."
+};
 
-while (dreams != achieved)
-{
-    keepCoding();
-    keepLearning();
-    stayCurious();
-}
+---
 
-«Building. Learning. Improving. One commit at a time. 🚀»
+🎯 Current Focus
+
+🔥 Building real-world software projects
+
+📚 Learning Full Stack Development
+
+🤖 Exploring AI & Deep Learning
+
+🚀 Preparing for internship opportunities
+
+---
+
+🛠️ Tech Stack
+
+Languages
+
+- Java
+- Python
+- JavaScript
+- C++
+
+Database
+
+- MySQL
+
+Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+🚀 Featured Projects
+
+🚑 Medi-Verse
+
+Emergency assistance application with real-time location sharing and quick response support.
+
+🚦 Traffic Sign Recognition
+
+Deep Learning-powered traffic sign classification system using image processing.
+
+👨‍🦯 Student Monitor & Accessibility Assistant
+
+SIH project focused on student monitoring and accessibility support for visually impaired individuals.
+
+🔒 Data Privacy Management
+
+Project focused on improving awareness and protection of personal data privacy.
+
+---
+
+📊 GitHub Analytics
+
+Add GitHub Stats Cards here
+
+---
+
+📫 Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Email: Your Email
+
+---
+
+😎 Fun Fact
+
+«"Every bug is just an undocumented feature waiting to be understood."»
+
+☕ Coffee → Code → Bugs → Fix → Repeat
