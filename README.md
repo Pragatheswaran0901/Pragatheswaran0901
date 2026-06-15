@@ -79,8 +79,8 @@ Add GitHub Stats Cards here
 
 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email
+- LinkedIn: 
+- Email: kit28.24bcs120@gmail.com
 
 ---
 
